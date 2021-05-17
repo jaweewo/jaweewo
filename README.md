@@ -6,4 +6,6 @@
 - Docker and Kubernetes
 
 ###Currently Leaning
-- AWS and Azure
+- Terraform
+- Azure Architecture
+- AWS

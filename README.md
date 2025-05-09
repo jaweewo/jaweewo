@@ -4,8 +4,11 @@
 - ###SKILLS
 - Linux knowledge as a sysadmin.
 - Docker and Kubernetes
+- Terraform 
+- Ansible 
+- AZCLI
+
+
 
 ###Currently Leaning
-- Terraform
-- Azure Architecture
-- AWS
+- Cibersecurity
